@@ -111,3 +111,24 @@ Two next build paths with reasoning.
 
 ### 🟧 Decisions
 Immediate next step and why.
+
+---
+
+## 🧱 Research Notes (mixed)
+**Timestamp:** 2025-12-23T19:28:26Z
+
+### 🟨 Extracted Data
+- Repo files: 22
+- Code present: 11
+
+### 🩷 Investigative
+What is missing, blocked, or undefined.
+
+### 🟩 Engineering / Tools
+What advances this repo fastest.
+
+### 🟥 Routes Worth More
+Two next build paths with reasoning.
+
+### 🟧 Decisions
+Immediate next step and why.
